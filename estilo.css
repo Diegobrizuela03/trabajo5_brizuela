@@ -1,0 +1,36 @@
+
+
+.dias {
+    font-weight: 900;
+    color: hotpink;
+    font-size: 30px;
+
+}
+
+.horario {
+    font-family:cursive;
+    color: hotpink;
+    font-size: 15px;
+
+}
+
+.encabezado {
+
+    background-color: hotpink;
+    font-size: 60px;
+    width: 100%;
+    border-style:solid;
+    
+}
+
+.pie {
+    background-color:lightpink;
+    font-size: 30px;
+    width: 100%;
+    
+}
+
+.formulario{
+    border: 1px black double;
+}
+
